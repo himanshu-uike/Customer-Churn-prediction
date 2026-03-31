@@ -4,7 +4,6 @@
 
 This project aims to predict customer churn in a telecom dataset and identify key factors influencing customer retention. The goal is to help businesses proactively reduce revenue loss by identifying high-risk customers.
 
-⸻
 
 🎯 Problem Statement
 
@@ -14,7 +13,6 @@ This project builds a machine learning model to:
 	•	Identify key drivers of churn
 	•	Provide actionable business insights
 
-⸻
 
 📁 Dataset
 	•	Dataset: Telco Customer Churn Dataset
@@ -25,7 +23,6 @@ This project builds a machine learning model to:
 	•	Contract type
 	•	Billing information
 
-⸻
 
 🧹 Data Cleaning & Preprocessing
 	•	Handled hidden missing values in TotalCharges
@@ -34,7 +31,6 @@ This project builds a machine learning model to:
 	•	Applied one-hot encoding to categorical features
 	•	Ensured all features are numeric for modeling
 
-⸻
 
 📊 Exploratory Data Analysis (EDA)
 
@@ -44,7 +40,6 @@ Key insights from visualizations:
 	•	💰 Higher monthly charges increase churn probability
 	•	📄 Month-to-month contracts have the highest churn rates
 
-⸻
 
 🤖 Model Building
 
@@ -55,17 +50,11 @@ Models Used:
 Evaluation Metric:
 	•	Focused on Recall (important for detecting churn)
 
-⸻
 
 ⚙️ Model Optimization
 	•	Applied threshold tuning (0.3) to improve churn detection
 	•	Improved recall from 0.52 → 0.73
 
-⸻
-
-	•	Interpretability
-
-⸻
 
 🔍 Feature Importance
 
@@ -74,14 +63,12 @@ Top factors influencing churn:
 	•	Monthly charges
 	•	Tenure
 
-⸻
 
 💡 Business Insights
 	•	Customers on month-to-month contracts churn more
 	•	High monthly charges increase churn risk
 	•	New customers (low tenure) are more likely to leave
 
-⸻
 
 🏁 Conclusion
 
@@ -93,7 +80,6 @@ By prioritizing recall, the business can:
 
 This project demonstrates the ability to build, evaluate, and optimize machine learning models aligned with real-world business objectives.
 
-⸻
 
 🚀 Tech Stack
 	•	Python
@@ -101,7 +87,6 @@ This project demonstrates the ability to build, evaluate, and optimize machine l
 	•	Seaborn, Matplotlib
 	•	Scikit-learn
 
-⸻
 
 📌 Key Skills Demonstrated
 	•	Data Cleaning & Preprocessing
